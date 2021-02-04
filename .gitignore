@@ -1,0 +1,9 @@
+/target/classes/application.properties
+/target/classes/home/production/msscbreweryclient/model/BeerDto$BeerDtoBuilder.class
+/target/classes/home/production/msscbreweryclient/model/BeerDto.class
+/target/classes/home/production/msscbreweryclient/client/BreweryClient.class
+/target/test-classes/home/production/msscbreweryclient/client/BreweryClientTest.class
+/target/classes/home/production/msscbreweryclient/model/CustomerDto$CustomerDtoBuilder.class
+/target/classes/home/production/msscbreweryclient/model/CustomerDto.class
+/target/test-classes/home/production/msscbreweryclient/MsscBreweryClientApplicationTests.class
+/target/classes/home/production/msscbreweryclient/MsscBreweryClientApplication.class
