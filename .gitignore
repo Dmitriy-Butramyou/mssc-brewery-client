@@ -12,3 +12,7 @@
 /.idea/jarRepositories.xml
 /.idea/misc.xml
 /.idea/workspace.xml
+/.idea/uiDesigner.xml
+/target/classes/home/production/msscbreweryclient/config/BlockingRestTemplateCustomizer.class
+/target/classes/home/production/msscbreweryclient/config/NIORestTemplateCustomizer.class
+/.idea/vcs.xml
